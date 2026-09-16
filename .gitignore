@@ -1,0 +1,16 @@
+# Credentials -- never commit these.
+apikey.json
+*apikey*
+qiskit-ibm.json
+.qiskit/
+.env
+
+# Tooling / editor state
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
