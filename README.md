@@ -1,4 +1,4 @@
-# Qiskit Global Summer School 2026 — my solutions
+# My solutions of Qiskit Global Summer School 2026
 
 **These are my own solutions**, written while participating in the
 [Qiskit Global Summer School 2026](https://quantum.cloud.ibm.com/learning/courses).
